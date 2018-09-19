@@ -1,7 +1,7 @@
 baseurl = "https://blog.vhlv.ml/"
 languageCode = "en-us"
 title = "Hello Friend"
-theme = "hugo-theme-hello-friend"
+theme = "hello-friend"
 copyright = ""
 paginate = 5
 
