@@ -1,6 +1,6 @@
 baseurl = "https://blog.vhlv.ml/"
 languageCode = "en-us"
-title = "Hello Friend"
+title = "Hello word!"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
