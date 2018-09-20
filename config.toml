@@ -9,11 +9,11 @@ paginate = 5
   subtitle = "A simple theme for Hugo"
 
 [params.logo]
-  logoText = "hello friend"
+  logoText = "hello world !"
 #   or
 #
-#   path = "/img/your-example-logo.svg"
-#   alt = "Your example logo alt text"
+#   path = "/img/dragon.svg"
+#   alt = "Hello ！"
 
 [menu]
   [[menu.main]]
