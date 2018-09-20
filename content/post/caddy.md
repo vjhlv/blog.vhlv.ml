@@ -2,7 +2,7 @@
 title = "caddy 安装配置"
 date = "2018-9-20"
 author = "vhlv"
-cover = "caddy.png"
+cover = "shell.png"
 description = "生产环境配置&使用
 
 +++
