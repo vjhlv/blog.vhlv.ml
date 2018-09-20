@@ -1,3 +1,11 @@
++++
+title = "Caddyfile"
+date = "2018年9月20日"
+author = "vhlv"
+cover = "shell.png"
+description = "Caddy config file"
+
++++
 ```sh
 http://axiong.me {
     redir https://axiong.me
