@@ -1,12 +1,3 @@
-+++
-title = "caddy 安装配置"
-date = "2018-9-20"
-author = "vhlv"
-cover = "shell.png"
-description = "生产环境配置&使用"
-
-+++
-
 ### 1、Install
 
 Direct link to download: 
