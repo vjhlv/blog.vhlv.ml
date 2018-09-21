@@ -1,6 +1,6 @@
 +++
 title = "caddy filemanager 配置"
-date = "2018-9-19"
+date = "2018年9月19日"
 author = "vhlv"
 cover = "shell.jpg"
 description = "caddy filemanager 配置"
