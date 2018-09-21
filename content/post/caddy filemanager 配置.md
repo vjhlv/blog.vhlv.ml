@@ -1,11 +1,4 @@
-+++
-title = "caddy filemanager 配置"
-date = "2018年9月19日"
-author = "vhlv"
-cover = "shell.jpg"
-description = "caddy filemanager 配置"
-
-+++
++++ title = "Hello Friend" date = "1986-09-17" author = "Elliot" cover = "hello.jpg" description = ""Hello, friend?" That's lame. Maybe I should give you a name?" +++
 
 ### caddy filemanager 配置
 
