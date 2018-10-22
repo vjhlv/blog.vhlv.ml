@@ -1,3 +1,14 @@
++++
+title = "ansible debug模块"
+date = "2018年10月22日"
+author = "vhlv"
+cover = "shell.jpg"
+description = "ansible playbook可以将多个命令组合来执行，但是很多时候我们需要接收服务器的反馈，所以debug模块就非常重要了。"
+
++++
+
+
+
 ### ansible debug模块
 
 ansible playbook可以将多个命令组合来执行，但是很多时候我们需要接收服务器的反馈，所以debug模块就非常重要了。
