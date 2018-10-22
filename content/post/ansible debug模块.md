@@ -1,9 +1,9 @@
 +++
 title = "ansible debug模块"
-date = "2018年10月22日"
+date = "2018年9月19日"
 author = "vhlv"
-cover = "shell.jpg"
-description = "ansible playbook可以将多个命令组合来执行，但是很多时候我们需要接收服务器的反馈，所以debug模块就非常重要了。"
+cover = "shell.png"
+description = "首先确认ip和端口，例如ip为127.0.0.1, 端口为1080, 打开终端，运行以下命令："
 
 +++
 
